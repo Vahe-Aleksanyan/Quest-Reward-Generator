@@ -38,5 +38,6 @@ jfreechart-1.0.19.jar
 
 
 the final result screenshot
-![](Screenshot 2024-07-05 at 21.25.08.png)
-![](Screenshot 2024-07-05 at 21.42.41.png)
+
+![Final Result 1](Screenshot%202024-07-05%20at%2021.25.08.png)
+![Final Result 2](Screenshot%202024-07-05%20at%2021.42.41.png)
